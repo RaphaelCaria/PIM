@@ -1,0 +1,12 @@
+Nome: Raphael
+CPF: 19252817794E-mail: 
+Telefone: 11994916897
+Ticket escolhido: 1
+Respostas:
+1. Quando e onde nasceu Santos Dumont? Resposta: 1
+2. Qual foi a invenção mais famosa de Santos Dumont? Resposta: 3
+3. Qual foi o objetivo principal de Santos Dumont ao inventar o avião? Resposta: c
+4. Quando e onde ocorreu a Semana de Arte Moderna? Resposta: d
+5. Quais foram as diferentes manifestações culturais presentes na Semana de Arte Moderna? Resposta: d
+6. Qual foi o objetivo da Semana de Arte Moderna? Resposta: a
+Avaliação do sistema: 10
